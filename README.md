@@ -24,7 +24,7 @@ _Coming soon._
 
 1. Open `chrome://extensions` in Chrome
 2. Turn on **Developer mode** (top-right)
-3. Click **Load unpacked** → select the `lead-scraper` folder
+3. Click **Load unpacked** → select the `leadpin` folder
 4. The **📍 LeadPin** icon appears in your toolbar
 
 > After changing the code: click the **🔄 refresh** on the LeadPin card in `chrome://extensions`, then reload the Google Maps tab.
